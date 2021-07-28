@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "El blog de KOLI"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Please to meet you. It all started on a smoggy morning october 10th of 1985
